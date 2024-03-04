@@ -1,35 +1,49 @@
-<h1 align="center">Hi 👋, I'm Rokonuzzaman Robin</h1>
-<h3 align="center">A passionate MERN stack developer and undergraduate Computer Science & Engineering student from Bangladesh.</h3>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4aWFlMXBwMHZ6eHIxaWxhb2Mzc3h6bzg1eWV1Y21paXRneHR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM1fica6eQdDQOu143/giphy.gif" alt="MasterHead" height="80%" width="100%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zmnrobin&label=Profile%20views&color=0e75b6&style=flat" alt="zmnrobin" /> </p>
+<h1 align="center">Hi there 👋, I'm Rokonuzzaman Robin</h1>
+<h3 align="center">I am a junior web developer passionate about creating visually stunning and user-friendly websites. I specialize in front-end development, where I excel at making designs come to life and ensuring a seamless user experience. My comfort zone lies in crafting responsive layouts and ensuring that websites not only look awesome but also feel intuitive and engaging. 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zmnrobin" alt="zmnrobin" /></a> </p>
 
-- 🔭 I’m currently working on **a one-to-one video calling application.**
+<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **Advanced node.js , Next.js and Prisma.**
+<h2 align="left">👩‍💻 About me:</h2>
 
-- 👨‍💻 All of my projects are available at [https://rokonuzzaman-robin.web.app/](https://rokonuzzaman-robin.web.app/)
+- 🔭 I’m currently working on **Developing My Skill**
 
-- 📝 I regularly write articles on [https://medium.com/@zmnrobin](https://medium.com/@zmnrobin)
+- 🌱 I’m currently learning **Redux & Typescript**
 
-- 💬 Ask me about **React, Node, Javascript, Python**
+- 👀 I’m interested in **Web Design & Development**
+
+- 💬 Ask me about **React JS & Next JS**
 
 - 📫 How to reach me **rokonuzzaman.gub@gmail.com**
+  
+- 🌐 My Portfolio [https://ismatjerin.me](https://ismatjerin.me)
 
-- ⚡ Fun fact **You know what? I use 100% of my brain all the time.**
+- 📄 Know about my experiences [https://drive.google.com/file/d/14XS7pxRlMm8ynp1TjXZPDbXe-UxX2u5c/view?usp=sharing](https://drive.google.com/file/d/14XS7pxRlMm8ynp1TjXZPDbXe-UxX2u5c/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
+
+<h2 align="left">🔗 Connect with me</h2>
 <p align="left">
-<a href="https://linkedin.com/in/rokonuzzaman-robin-2a9721186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rokonuzzaman-robin-2a9721186" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/rokonuzzaman_robin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rokonuzzaman_robin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ismatjerinarpa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismat-jerin-arpa-a773a6243" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<h2 align="left">💻 Languages and Tools:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zmnrobin&show_icons=true&locale=en&layout=compact" alt="zmnrobin" /></p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,react,javascript,firebase,bootstrap,mongodb,figma,git,expressjs,nodejs)](https://skillicons.dev)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zmnrobin&show_icons=true&locale=en" alt="zmnrobin" /></p>
+[![My Skills](https://skillicons.dev/icons?i=github,materialui,vscode,vite,nextjs)](https://skillicons.dev)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zmnrobin&" alt="zmnrobin" /></p>
+<h2 align="left">📉 Streak Stats</h2>
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jerin-arpa&theme=whatsapp-dark2&border_radius=7&card_width=700)](https://git.io/streak-stats)
+
+
+![Profile Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jerin-arpa&theme=github_dark)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jerin-arpa&theme=github_dark" alt="Stats Card" width="350" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jerin-arpa&theme=github_dark&utcOffset=8" alt="Productive Time Card" width="350" />
+</p>
