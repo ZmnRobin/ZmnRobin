@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Rokonuzzaman Robin</h1>
 <h3 align="center">I am a junior web developer passionate about creating visually stunning and user-friendly websites. I specialize in front-end development, where I excel at making designs come to life and ensuring a seamless user experience. My comfort zone lies in crafting responsive layouts and ensuring that websites not only look awesome but also feel intuitive and engaging. 🚀</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif">
 
 <h2 align="left">👩‍💻 About me:</h2>
 
