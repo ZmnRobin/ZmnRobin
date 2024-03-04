@@ -1,4 +1,4 @@
-<!-- <img src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif" alt="MasterHead" height="80%" width="100%"> -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4aWFlMXBwMHZ6eHIxaWxhb2Mzc3h6bzg1eWV1Y21paXRneHR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM1fica6eQdDQOu143/giphy.gif" alt="MasterHead" height="80%" width="100%">
 
 <h1 align="center">Hi there 👋, I'm Rokonuzzaman Robin</h1>
 <h3 align="center">Junior web developer from Bangladesh, Computer Science and Engineering graduate from Green University of Bangladesh. Skilled in React, Next.js, and MERN stack, crafting visually stunning websites for seamless user experiences.</h3>
