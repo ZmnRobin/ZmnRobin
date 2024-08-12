@@ -1,5 +1,3 @@
-<!-- <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWw4aWFlMXBwMHZ6eHIxaWxhb2Mzc3h6bzg1eWV1Y21paXRneHR4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nM1fica6eQdDQOu143/giphy.gif" alt="MasterHead" height="80%" width="100%"> -->
-
 <h1 align="center">Hi there 👋, I'm Rokonuzzaman Robin</h1>
 <h3 align="center">Full Stack Developer from Bangladesh, Computer Science and Engineering graduate from Green University of Bangladesh.</h3>
 
