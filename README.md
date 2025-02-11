@@ -1,20 +1,20 @@
 <h1 align="center">Hi there 👋, I'm Rokonuzzaman Robin</h1>
-<h3 align="center">Full Stack Developer from Bangladesh, Computer Science and Engineering graduate from Green University of Bangladesh.</h3>
+<h3 align="center">Software Engineer | Passionate about Building Scalable Web Applications</h3>
 
+<h2 align="left">👨‍💻 About Me</h2>
 
-<h2 align="left">👩‍💻 About me:</h2>
+- 🚀 Currently working as a **Software Engineer at ShareTrip**
+- 🛠️ Tech Stack: **Next.js, React, TypeScript, Tailwind CSS, and more**
+- 🎮 Passionate about **technology, problem-solving, and video games**
+- 💡 Enthusiastic about **building intuitive user interfaces and scalable applications**
+- 📫 Reach me at: **rokonuzzaman.gub@gmail.com**
+- 🌐 Check out my [Portfolio](https://rokonuzzaman-robin.vercel.app/)
 
-- 🌱 I’m currently learning **Angular & Typescript**
-
-- 👀 I’m interested in **Full Stack Software Development**
-
-- 📫 How to reach me **rokonuzzaman.gub@gmail.com**
-- 🌐 My [Portfolio](https://rokonuzzaman-robin.vercel.app/)
-
-
-<h2 align="left">🔗 Connect with me</h2>
+<h2 align="left">🔗 Connect with Me</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/rokonuzzaman-robin-2a9721186/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ismat-jerin-arpa-a773a6243" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/rokonuzzaman-robin-2a9721186/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
 
 
